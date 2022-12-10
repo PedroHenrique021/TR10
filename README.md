@@ -1,6 +1,6 @@
 BAIXANDO O CÓDIGO:
 
-Clicando no botão verde com o nome Código, aparecerá a opção Download ZIP.
+Clicando no botão verde com o nome Code, aparecerá a opção Download ZIP.
 Ao baixá-la você irá descompactar a pasta zip. Quando for descompactada, irá gerar uma pasta, contendo dois arquivos, o README.md e o arquivo .c.
 
 COMPILANDO O CÓDIGO:
