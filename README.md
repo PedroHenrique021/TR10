@@ -6,7 +6,7 @@ Ao baixá-la você irá descompactar a pasta zip. Quando for descompactada, irá
 COMPILANDO O CÓDIGO:
 
 Para compilar, você irá abrir o terminal na pasta em que o arquivo está.
-Digite o seguite comando: gcc TR3_539448.c -o teste
+Digite o seguite comando: gcc TR3.c -o teste
 Assim, gerando um arquivo executável.
 
 EXECUTANDO O CÓDIGO:
