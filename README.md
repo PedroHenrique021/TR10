@@ -20,6 +20,7 @@ FUNCIONAMENTO DO PROGRAMA:
 Para o programa funcionar, deve digitar somente números inteiros não negativos, entre 0-5000.
 Caso queira encerrar o programa digite -1.
 Quando for encerrado, mostrará os números digitados em ordem crescente.
+
 OBS
 
 Esse processo, funciona somente para Linux, caso não tenha, da para rodar o código em um Editor online.
